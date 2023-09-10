@@ -1,0 +1,28 @@
+Question 22
+Revist Later
+How to Attempt?
+Mean, Median and Mode
+Given integers, find the mean median and modis
+PYTHONS
+Compiler Python 111
+at only region start Class Result(object):
+der init (self, argi, args, args: self outputt-arg double
+self.nutputharga double outputsargs class usermaincode(object)
+You are required to fill in a function that takes as inputs an integm input (< input1000) and an integer atay input211 containing integers and s output1 as the mean output2 as the median and output as the mode
+The man and mardkan must be conect to soc decimal places
+Mean
+Defined as the average of all numbers in the y
+smethod
+der (cls, inputs, input231
+Inputt int
+Input>: in)
+Expected return type Result
+Read only reg write code here
+pass
+12
+Median:
+Defined as the middle element of the array
+If is wr, the Hidion is the image of the two middie elements Enodi, the dars is the ikke alener of the anay
+Note: For finding the dian, tents in the array have to be listed in numerical order from smallest target
+Mode
+Defined as the Humber in the wrong with the highest fancy y was have the sumur highest fresing, the theme calculat bedingt i four of the est of the mabers
