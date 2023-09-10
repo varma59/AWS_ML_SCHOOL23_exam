@@ -1,0 +1,30 @@
+Question 21
+Revisit Later
+PYTHON3
+2
+3
+4
+6
+Compiler: Python 3.1
+Read only region start
+class UserMaincode(object):
+classethod
+How to Attempt?
+Minimum Cost to Reach the Destination
+There are N cities in a country. George is initially at the airport in city 1 and he wants to reach city N. For any city i. there is either a flight to city (+1) or to (+3) if it exists You have been given an array A with the costs of flight tickets for N cities to find the cost of a flight ticket between any two cities i and, you take the absolute difference of the costs of those cities in the array A. You can use the formula Cost-Cost to calculate the cost of a flight ticket, whore la represents the absolute value of a
+Your task is to find and return the minimum possible cost of flight ticket required to each the city N
+Note
+The number of its always greater than J
+Asiae bonet ind
+Input Specification:
+input: An integer value N representing the number of cities input2: An integer array A presenting the cost of tickets to mach the i acity
+Output Specification
+def winimumcost(cls, inputs, input2)
+input int inputz int[]
+Expected return type: int)
+Read only regfont end write code here
+9
+30
+12
+15
+tum the minimum powest of tight ticket required to Huch the city N
